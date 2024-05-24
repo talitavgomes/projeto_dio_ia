@@ -4,12 +4,23 @@
 Esta é uma imagem criada por uma IA Generativa onde a intenção seria divulgar um foto fake da floresta Amazônia com um objeto não identificado ao fundo.
 
 ## 🤖 Tecnologia Utilizada
+
 **IA Generativa Google AI Studio** para ajudar no roteiro da imagem;
+
 **IA Generativa Amazon Bedrock** para acesar o modelo modelo de base;
+
 **Amazon Titan Image Generator G1** para fazer a criação da imagem 
 
 ## 🛠️ Processo de Criação
-Usei o *Google AI Studio* para me ajudar no contexto do roteiro para que a ferramenta conseguisse entender os detalhes da imagem. Em seguida entrei no *AWS* e procurei o serviço [Amazon Bedrock](https://aws.amazon.com/pt/bedrock/). Acessando o serviço, fui na opção *Modelo de Base* e adicionei **Titan Image Generator G1**. Após alguns minutos, o recurso já estava disponível, com isso fui na área *Playgrounds --> Imagem*. Adicionei o modelo e em seguida a descrição da imagem que gostaria que fosse gerada.
+Usei o *Google AI Studio* para me ajudar no contexto do roteiro para que a ferramenta conseguisse entender os detalhes da imagem. 
+
+Em seguida entrei no *AWS* e procurei o serviço [Amazon Bedrock](https://aws.amazon.com/pt/bedrock/). 
+
+Acessando o serviço, fui na opção *Modelo de Base* e adicionei **Titan Image Generator G1**. 
+
+Após alguns minutos, o recurso já estava disponível, com isso fui na área *Playgrounds --> Imagem*. 
+
+Adicionei o modelo e em seguida a descrição da imagem que gostaria que fosse gerada.
 
 ## 🚀 Resultados
 Imagem gerada, sendo possível a disseminação de notícias falsas com imagens criadas através de inteligência artificial.
